@@ -2,7 +2,7 @@
 
 Scripts to get information from cloudflare API
 
-## Compile:
+## Compile
 
 PHP 4 >= 4.3.0, PHP 5, PHP 7
 
