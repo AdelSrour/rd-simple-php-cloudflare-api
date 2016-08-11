@@ -16,7 +16,7 @@ PHP 4 >= 4.3.0, PHP 5, PHP 7
 
 * Analytics [Get Full Analytics of your domain and total visits, cache, threats, etc by date]
 * DNS [Get list of your DNS list and id for each record]
-* Zones [Get inforamtion of any zone such as Security Level[
+* Zones [Get inforamtion of any zone such as Security Level]
 * PageRules [Get list of current page rules]
 
 ## Credits
